@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/monster-arena/static/css/main.8161a70d.chunk.css",
+    "main.js": "/monster-arena/static/js/main.7da46f83.chunk.js",
+    "main.js.map": "/monster-arena/static/js/main.7da46f83.chunk.js.map",
+    "runtime-main.js": "/monster-arena/static/js/runtime-main.93a30b2e.js",
+    "runtime-main.js.map": "/monster-arena/static/js/runtime-main.93a30b2e.js.map",
+    "static/js/2.23266d7d.chunk.js": "/monster-arena/static/js/2.23266d7d.chunk.js",
+    "static/js/2.23266d7d.chunk.js.map": "/monster-arena/static/js/2.23266d7d.chunk.js.map",
+    "index.html": "/monster-arena/index.html",
+    "static/css/main.8161a70d.chunk.css.map": "/monster-arena/static/css/main.8161a70d.chunk.css.map",
+    "static/js/2.23266d7d.chunk.js.LICENSE.txt": "/monster-arena/static/js/2.23266d7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93a30b2e.js",
+    "static/js/2.23266d7d.chunk.js",
+    "static/css/main.8161a70d.chunk.css",
+    "static/js/main.7da46f83.chunk.js"
+  ]
+}
